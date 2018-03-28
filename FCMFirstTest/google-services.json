@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "605489592630",
+    "firebase_url": "https://xamainfcm-e1e0a.firebaseio.com",
+    "project_id": "xamainfcm-e1e0a",
+    "storage_bucket": "xamainfcm-e1e0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605489592630:android:c8c071b227959b07",
+        "android_client_info": {
+          "package_name": "FCMFirstTest.FCMFirstTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605489592630-rk51vlhiek00fjt2cipt4tmihbg346rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqeHu9mQ3lzvhhlugWdGQmmlzj_XM9Ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
